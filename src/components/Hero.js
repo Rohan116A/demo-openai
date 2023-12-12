@@ -5,7 +5,7 @@ export default function Hero() {
     <section>
       <div className='container'>
         <div className="hero h-96 md:h-[500px] rounded-box overflow-hidden" style={{ backgroundImage: `url("https://openai-chatgpt-premium.vercel.app/openai-chatgpt.jpeg")` }}>
-          <div className="hero-overlay bg-opacity-60 bg-secondary"></div>
+          <div className="hero-overlay bg-opacity-60 bg-gradient-to-r from-blue-800 to-indigo-900"></div>
           <div className="hero-content text-center text-secondary-content">
             <div className="max-w-lg">
               <h1 className="mb-5 sm:mb-7 text-4xl sm:text-5xl font-bold">
