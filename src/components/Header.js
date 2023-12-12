@@ -24,22 +24,14 @@ export default function Header() {
                 <i className='bi bi-list text-2xl'></i>
               </label>
               <ul tabIndex={0} className="dropdown-content mt-1 w-52 menu menu-compact p-2 bg-base-200 shadow rounded-box">
-                <li><a href="#!">Home</a></li>
-                <li><a href="#!">Services</a></li>
-                <li><a href="#!">About</a></li>
-                <li><a href="#!">Work</a></li>
-                <li><a href="#!">Case Study</a></li>
+                <li><a href="/">Home</a></li>
               </ul>
             </div>
-            <a className="btn btn-ghost normal-case text-2xl">daisyUI</a>
+            <a className="btn btn-ghost normal-case text-2xl" href="/">ChatGPT APK</a>
           </div>
           <div className="navbar-center hidden lg:flex">
             <ul className="menu menu-horizontal p-0 font-medium">
-              <li><a href="#!">Home</a></li>
-              <li><a href="#!">Services</a></li>
-              <li><a href="#!">About</a></li>
-              <li><a href="#!">Work</a></li>
-              <li><a href="#!">Case Study</a></li>
+              <li><a href="/">Home</a></li>
             </ul>
           </div>
           <div className="navbar-end">
