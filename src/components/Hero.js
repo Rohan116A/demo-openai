@@ -14,7 +14,9 @@ export default function Hero() {
               <p className="mb-5 sm:mb-7 sm:text-lg">
                 Download and Install OpenAI ChatGPT Premium MOD APK Free. Use all Premium Features on Android Smartphone.
               </p>
+   <a href="https://apk.idealfollow.in/openai-chatgpt-premium-mod-apk/" rel="nofollow" target="_blank" id="download">
               <button className="btn btn-warning sm:btn-wide">Download APK</button>
+   </a>
             </div>
           </div>
         </div>
