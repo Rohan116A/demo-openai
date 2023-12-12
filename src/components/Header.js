@@ -37,7 +37,7 @@ export default function Header() {
           <div className="navbar-end">
             <div className="dropdown dropdown-end">
               <label tabIndex={0} className="btn">
-              {THEMES.length} Themes
+              Change Theme
               </label>
               <ul tabIndex={0} className="dropdown-content mt-1 w-52 max-h-96 overflow-y-auto menu menu-compact p-2  bg-base-200 shadow rounded-box">
                 {
