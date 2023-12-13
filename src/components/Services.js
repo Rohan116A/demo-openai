@@ -34,7 +34,7 @@ export default function Services() {
 
           <div className="card bg-base-200 transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-lg">
             <div className="card-body items-center text-center gap-4">
-              <i className='bi bi-badge-ad text-4xl'></i>
+              <i className='bi bi-input-cursor text-4xl'></i>
               <h2 className="card-title">Professional Input</h2>
               <p>
                 Find the professional input that helps you to move professionally. Use this App as a mentor or helper.
@@ -64,7 +64,7 @@ export default function Services() {
 
           <div className="card bg-base-200 transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-lg">
             <div className="card-body items-center text-center gap-4">
-              <i className='bi bi-funnel text-4xl'></i>
+              <i className='bi bi-badge-ad text-4xl'></i>
               <h2 className="card-title">No Ad</h2>
               <p>
                 It contains no ads on its app interface. Because this Apk doesn't contain ads. You can use this without getting ads.
