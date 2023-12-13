@@ -5,9 +5,9 @@ export default function Features()  {
     <section className='py-10 md:py-16 bg-neutral'>
         <div className='container'>
           <div className='text-center text-white'>
-            <h2 className='text-3xl sm:text-5xl font-bold mb-4'>We have some fans.</h2>
+            <h2 className='text-3xl sm:text-5xl font-bold mb-4'>Additional Features</h2>
             <p className='text-lg sm:text-2xl mb-6 md:mb-14'>
-              We create engaging experiences that are innovatingand beautiful.
+              ChatGPT Premium comes with a verity of features and options. Here you get to know some extra features.
             </p>
           </div>
 
