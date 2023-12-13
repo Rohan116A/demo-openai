@@ -5,7 +5,7 @@ export default function Article()  {
     <section className='py-10 md:py-16'>
       <div className='container'>
         <div className='text-center'>
-          <h2 className='text-3xl sm:text-5xl font-bold mb-4'>OpenAI ChatGPT Premium Features</h2>
+          <h3 className='text-3xl sm:text-5xl font-bold mb-4'>How to Install</h3>
         </div>
 
     <article class="mx-auto max-w-6xl">
