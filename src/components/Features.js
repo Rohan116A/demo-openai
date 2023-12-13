@@ -11,7 +11,7 @@ export default function Features()  {
             </p>
           </div>
 
-     <article class="mx-auto max-w-6xl text-white">
+     <article class="mx-auto max-w-6xl text-center text-white">
 <ol><li>Use all premium features on ChatGPT for unlimited time.</li>
   <li>GPT 4.0 is unlocked and free to use.</li>
   <li>Give long text as a prompt.</li>
