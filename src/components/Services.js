@@ -7,7 +7,7 @@ export default function Services() {
         <div className='text-center'>
           <h2 className='text-3xl sm:text-5xl font-bold mb-4'>OpenAI ChatGPT Premium Features</h2>
           <p className='text-lg sm:text-2xl mb-6 md:mb-14'>
-            Here we share all pro features of ChatGPT MOD APK for Android. Take a look and then Install on your smartphone.
+           You can use all those pro features of ChatGPT MOD APK for Android. Take a look and then Install on your smartphone.
           </p>
         </div>
 
@@ -15,9 +15,9 @@ export default function Services() {
           <div className="card bg-base-200 transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-lg">
             <div className="card-body items-center text-center gap-4">
               <i className='bi bi-search text-4xl'></i>
-              <h2 className="card-title">SEO Services</h2>
+              <h2 className="card-title">Instant Answers</h2>
               <p>
-                This is a wider card with <br className='hidden xl:inline' />supporting text below as a <br className='hidden xl:inline' /> natural content.
+                Easy to get an appropriate answer instantly. Input the prompt and get the prominent answer.
               </p>
             </div>
           </div>
