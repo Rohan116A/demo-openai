@@ -6,6 +6,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Services from './components/Services';
 import Features from './components/Features';
+import Article from './components/Article';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
 
@@ -16,6 +17,7 @@ function App() {
       <Hero />
       <Services />
       <Features />
+      <Article/>
       <CTA />
       <Footer />
     </>
