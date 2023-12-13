@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Testimonial()  {
+export default function Article()  {
   return (
     <section className='py-10 md:py-16 bg-neutral'>
         <div className='container'>
