@@ -25,9 +25,9 @@ export default function Services() {
           <div className="card bg-base-200 transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-lg">
             <div className="card-body items-center text-center gap-4">
               <i className='bi bi-chat-left-dots text-4xl'></i>
-              <h2 className="card-title">Social Content</h2>
+              <h2 className="card-title">Tailored Advice</h2>
               <p>
-                This is a wider card with <br className='hidden xl:inline' />supporting text below as a <br className='hidden xl:inline' /> natural content.
+               Get tailored advice for a special person. You can ask for the perfect invite text from here.
               </p>
             </div>
           </div>
@@ -35,9 +35,9 @@ export default function Services() {
           <div className="card bg-base-200 transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-lg">
             <div className="card-body items-center text-center gap-4">
               <i className='bi bi-badge-ad text-4xl'></i>
-              <h2 className="card-title">Creative ads</h2>
+              <h2 className="card-title">Professional Input</h2>
               <p>
-                This is a wider card with <br className='hidden xl:inline' />supporting text below as a <br className='hidden xl:inline' /> natural content.
+                Find the professional input that helps you to move professionally. Use this App as a mentor or helper.
               </p>
             </div>
           </div>
@@ -45,9 +45,9 @@ export default function Services() {
           <div className="card bg-base-200 transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-lg">
             <div className="card-body items-center text-center gap-4">
               <i className='bi bi-card-checklist text-4xl'></i>
-              <h2 className="card-title">Brand Identity</h2>
+              <h2 className="card-title">Creative Ideas</h2>
               <p>
-                This is a wider card with <br className='hidden xl:inline' />supporting text below as a <br className='hidden xl:inline' /> natural content.
+                Generate some creative ideas for inspiration. It is very capable of providing creative suggestions.
               </p>
             </div>
           </div>
@@ -55,9 +55,9 @@ export default function Services() {
           <div className="card bg-base-200 transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-lg">
             <div className="card-body items-center text-center gap-4">
               <i className='bi bi-wallet2 text-4xl'></i>
-              <h2 className="card-title">Budget & Marketing</h2>
+              <h2 className="card-title">No Subscription Need</h2>
               <p>
-                This is a wider card with <br className='hidden xl:inline' />supporting text below as a <br className='hidden xl:inline' /> natural content.
+               The MOD APK already unlocked all premium features for free to use. So you do not need to have a subscription.
               </p>
             </div>
           </div>
@@ -65,9 +65,9 @@ export default function Services() {
           <div className="card bg-base-200 transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-lg">
             <div className="card-body items-center text-center gap-4">
               <i className='bi bi-funnel text-4xl'></i>
-              <h2 className="card-title">Optimize conversions</h2>
+              <h2 className="card-title">No Ad</h2>
               <p>
-                This is a wider card with <br className='hidden xl:inline' />supporting text below as a <br className='hidden xl:inline' /> natural content.
+                It contains no ads on its app interface. Because this Apk doesn't contain ads. You can use this without getting ads.
               </p>
             </div>
           </div>
