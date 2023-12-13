@@ -38,8 +38,8 @@ export default function Article()  {
 
     </article>
 
-   <div class="carousel carousel-center max-w-md p-4 space-x-4 bg-neutral rounded-box">
-  <div class="carousel-item">
+    <div class="mx-auto max-w-4xl">
+    <div class="carousel carousel-center rounded-box gap-1">
     <img src="https://daisyui.com/images/stock/photo-1559703248-dcaaec9fab78.jpg" class="rounded-box" />
   </div> 
   <div class="carousel-item">
