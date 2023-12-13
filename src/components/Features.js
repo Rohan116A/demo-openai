@@ -11,6 +11,9 @@ export default function Features()  {
             </p>
           </div>
 
+     <article class="mx-auto max-w-6xl">
+<p>Hello World</p>
+    </article>
          
         </div>
       </section>
