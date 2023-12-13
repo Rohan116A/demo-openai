@@ -5,7 +5,7 @@ import './App.css';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Services from './components/Services';
-import Testimonial from './components/Testimonial';
+import Testimonial from './components/Features';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
 
@@ -15,7 +15,7 @@ function App() {
       <Header />
       <Hero />
       <Services />
-      <Testimonial />
+      <Features />
       <CTA />
       <Footer />
     </>
