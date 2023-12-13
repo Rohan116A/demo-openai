@@ -38,7 +38,7 @@ export default function Article()  {
 
     </article>
 
-    <div class="carousel carousel-center rounded-box gap-1">
+    <div class="carousel carousel-center rounded-box gap-1 mx-auto max-w-4xl">
     <div class="carousel-item">
     <img src="https://play-lh.googleusercontent.com/73YdqpsZPOjPdiDrURm2whbE-CAoIvPLPSpoH76y4vDz-K19JDIutwWBiHWY-1SzACs=w526-h296-rw" class="rounded-box" />
   </div> 
