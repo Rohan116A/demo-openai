@@ -8,7 +8,7 @@ export default function Article()  {
           <h3 className='text-3xl sm:text-5xl font-bold mb-4'>How to Install</h3>
         </div>
 
-    <article className="mb-5 sm:mb-7 sm:text-lg">
+    <article>
 <p>
   ChatGPT Premium MOD APK is Safe to install and use on your Phone. We tested
   multiple devices and also verified by VirulTotal. So, you only need to
