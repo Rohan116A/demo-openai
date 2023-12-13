@@ -12,8 +12,7 @@ export default function Features()  {
           </div>
 
      <article class="mx-auto max-w-6xl text-white">
-<ul>
-  <li>Use all premium features on ChatGPT for unlimited time.</li>
+<ol><li>Use all premium features on ChatGPT for unlimited time.</li>
   <li>GPT 4.0 is unlocked and free to use.</li>
   <li>Give long text as a prompt.</li>
   <li>Generate code and script instantly.</li>
@@ -22,8 +21,7 @@ export default function Features()  {
   <li>Boost speed in every aspect.</li>
   <li>Upload image and CSV as well.</li>
   <li>Use unlimited coins.</li>
-  <li>Fast download speed.</li>
-</ul>
+  <li>Fast download speed.</li></ol>
     </article>
          
         </div>
